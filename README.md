@@ -1,11 +1,13 @@
- Hi there 👋
+ ## <h1> Hi, i'm Yuval Zoref. I Recently graduated as a full stack developer </br> 
+ <h2> :atom: I currently live in London, UK :atom: </h2>
+ 
+ ![](https://komarev.com/ghpvc/?username=YuvalZoref&color=FF55E3&style=for-the-badge&label=PROFILE+VIEWS)
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning :trollface:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 Link to Linkedin & CV ...
 - ⚡ Fun fact: ...
 
 <br>
@@ -45,3 +47,5 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuvalZoref&layout=compact&theme=vision-friendly-dark&border_color=FF13F3AD&bg_color=131313E2&title_color=00FFEE&text_color=B7FF98)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
