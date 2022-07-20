@@ -1,14 +1,14 @@
  ## <h1> Hi, i'm Yuval Zoref. I Recently graduated as a full stack developer </br> 
- :atom: I currently live in London :atom: 
+ I currently live in London
  
  ![](https://komarev.com/ghpvc/?username=YuvalZoref&color=FF55E3&style=for-the-badge&label=PROFILE+VIEWS)
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning :trollface:
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- 	:octocat: I’m currently working on building a portfolio page
+- :electron: I’m currently learning React 
+- :flying_saucer: I’m looking for help with anything and everything
+- 	:mushroom: Ask me whatever you like
+- :trollface: Fun fact --> Sliced bread was first manufactured by machine and sold in the 1920s by the Chillicothe Baking Company in Missouri. It was the greatest thing since…unsliced bread
 
 <br>
 
