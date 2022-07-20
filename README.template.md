@@ -4,7 +4,7 @@
  ![](https://komarev.com/ghpvc/?username=YuvalZoref&color=FF55E3&style=for-the-badge&label=PROFILE+VIEWS)
 
 
-- 	:octocat: I’m currently working on building a portfolio page
+- 	:octocat: I’m currently working on a personal portfolio page
 - :electron: I’m currently learning React 
 - :flying_saucer: I’m looking for help with anything and everything
 - 	:mushroom: Ask me whatever you like
