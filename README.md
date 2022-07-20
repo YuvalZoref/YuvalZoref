@@ -1,5 +1,5 @@
  ## <h1> Hi, i'm Yuval Zoref. I Recently graduated as a full stack developer </br> 
- <h2> :atom: I currently live in London, UK :atom: </h2>
+ :atom: I currently live in London :atom: 
  
  ![](https://komarev.com/ghpvc/?username=YuvalZoref&color=FF55E3&style=for-the-badge&label=PROFILE+VIEWS)
 
