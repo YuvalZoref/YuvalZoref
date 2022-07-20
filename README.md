@@ -1,18 +1,15 @@
-  <h1> Hi! i'm ..... </h1>
+  <h1 align="center"> Hi! i'm ..... </h1>
  
- <img src="https://github.com/YuvalZoref/YuvalZoref/blob/main/yz-logo-second-nb.png" title="logo"  alt="logo" width="480" height="440"/>&nbsp;
+ <p align="center">
+  <img src="https://github.com/YuvalZoref/YuvalZoref/blob/main/yz-logo-second-nb.png" title="logo"  alt="logo" width="450" height="420"/>
+</p>
  
- 
- <h2> I Recently graduated as a full stack developer, currently living in London </h2> </br>
- 
- ![](https://komarev.com/ghpvc/?username=YuvalZoref&color=FF55E3&style=for-the-badge&label=PROFILE+VIEWS)
 
-
-- 	:octocat: I’m currently working on a personal portfolio page
+- :octocat: I’m currently working on a personal portfolio page
 - :electron: I’m currently learning React 
 - :flying_saucer: I’m looking for help with anything and everything
-- 	:mushroom: Ask me whatever you like
-- :trollface: Fun fact --> Sliced bread was first manufactured by machine and sold in the 1920s by the Chillicothe Baking Company in Missouri. It was the greatest thing since…unsliced bread
+- :trollface: Ask me whatever you like
+- :bread: Sliced bread was first manufactured by machine and sold in the 1920s by the Chillicothe Baking Company in Missouri. It was the greatest thing since…unsliced bread
 
 <br>
 
@@ -53,3 +50,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuvalZoref&layout=compact&theme=vision-friendly-dark&border_color=FF13F3AD&bg_color=131313E2&title_color=00FFEE&text_color=B7FF98)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+
+ ![](https://komarev.com/ghpvc/?username=YuvalZoref&color=FF55E3&style=for-the-badge&label=PROFILE+VIEWS)
