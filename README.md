@@ -28,7 +28,6 @@
  ![](https://komarev.com/ghpvc/?username=YuvalZoref&color=FF55E3&style=for-the-badge&label=PROFILE+VIEWS)
  
 <br>
- 
 
 - :octocat: I’m currently working on a personal portfolio page
 - :flying_saucer: I’m looking for help with anything and everything
