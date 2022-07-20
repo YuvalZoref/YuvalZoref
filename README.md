@@ -6,9 +6,9 @@
  
 
 - :octocat: I’m currently working on a personal portfolio page
-- :electron: I’m currently learning React 
 - :flying_saucer: I’m looking for help with anything and everything
 - :trollface: Ask me whatever you like
+- :electron: I’m currently learning React 
 - :bread: Sliced bread was first manufactured by machine and sold in the 1920s by the Chillicothe Baking Company in Missouri. It was the greatest thing since…unsliced bread
 
 <br>
