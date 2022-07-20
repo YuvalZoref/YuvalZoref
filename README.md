@@ -3,25 +3,8 @@
  <p align="center">
   <img src="https://github.com/YuvalZoref/YuvalZoref/blob/main/yz-logo-second-nb.png" title="logo"  alt="logo" width="450" height="420"/>
 </p>
- 
 
-- :octocat: I’m currently working on a personal portfolio page
-- :flying_saucer: I’m looking for help with anything and everything
-- :trollface: Ask me whatever you like
-- :electron: I’m currently learning React 
-- :bread: Sliced bread was first manufactured by machine and sold in the 1920s by the Chillicothe Baking Company in Missouri. It was the greatest thing since…unsliced bread
-
-<br>
-
-:point_down: LinkedIn :point_down:
-<p>
-    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</p>
-
-
-<br>
-
-<div>
+<div align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="ruby"  alt="ruby" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="rails" alt="rails " width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp" 
@@ -39,6 +22,27 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" alt="trello" width="40" height="40"/>&nbsp;  
   </div>
 
+<br>
+<br>
+
+ ![](https://komarev.com/ghpvc/?username=YuvalZoref&color=FF55E3&style=for-the-badge&label=PROFILE+VIEWS)
+ 
+<br>
+ 
+
+- :octocat: I’m currently working on a personal portfolio page
+- :flying_saucer: I’m looking for help with anything and everything
+- :trollface: Ask me whatever you like
+- :electron: I’m currently learning React 
+- :bread: Sliced bread was first manufactured by machine and sold in the 1920s by the Chillicothe Baking Company in Missouri. It was the greatest thing since…unsliced bread
+
+<br>
+
+:point_down: LinkedIn :point_down:
+<p>
+    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
+
 
 ### :ringed_planet: My Stats :
 <br>
@@ -48,7 +52,3 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuvalZoref&layout=compact&theme=vision-friendly-dark&border_color=FF13F3AD&bg_color=131313E2&title_color=00FFEE&text_color=B7FF98)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
- ![](https://komarev.com/ghpvc/?username=YuvalZoref&color=FF55E3&style=for-the-badge&label=PROFILE+VIEWS)
