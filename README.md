@@ -1,10 +1,14 @@
- ## <h1> Hi, i'm Yuval Zoref. I Recently graduated as a full stack developer </br> 
- I currently live in London
+  <h1> Hi! i'm ..... </h1>
+ 
+ <img src="https://github.com/YuvalZoref/YuvalZoref/blob/main/yz-logo-second-nb.png" title="logo"  alt="logo" width="480" height="440"/>&nbsp;
+ 
+ 
+ <h2> I Recently graduated as a full stack developer, currently living in London </h2> </br>
  
  ![](https://komarev.com/ghpvc/?username=YuvalZoref&color=FF55E3&style=for-the-badge&label=PROFILE+VIEWS)
 
 
-- 	:octocat: I’m currently working on building a portfolio page
+- 	:octocat: I’m currently working on a personal portfolio page
 - :electron: I’m currently learning React 
 - :flying_saucer: I’m looking for help with anything and everything
 - 	:mushroom: Ask me whatever you like
