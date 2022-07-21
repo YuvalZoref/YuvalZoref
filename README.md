@@ -1,4 +1,4 @@
-  <h1 align="center"> Hi! i'm ..... </h1>
+  <h1 align="center"> Hi! i'm ...... </h1>
  
  <p align="center">
   <img src="https://github.com/YuvalZoref/YuvalZoref/blob/main/yz-logo-second-nb.png" title="logo"  alt="logo" width="450" height="420"/>
