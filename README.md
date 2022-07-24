@@ -1,4 +1,4 @@
-  <h1 align="center"> Hi! i'm ...... </h1>
+  <h1 align="center"> Hi! i'm ....... </h1>
  
  <p align="center">
   <img src="https://github.com/YuvalZoref/YuvalZoref/blob/main/yz-logo-second-nb.png" title="logo"  alt="logo" width="450" height="420"/>
@@ -37,9 +37,8 @@
 
 <br>
 
-:point_down: LinkedIn :point_down:
-<p>
-    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <p>
+     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
 
